@@ -3,6 +3,10 @@
 ## Description
 Shoe Emporium is a React project showcasing a stylish footwear collection. The project includes a Hero Section introducing the brand and a Navigation component for seamless navigation.
 
+
+![shoe emporium](https://github.com/shvinjas/FootwearHub-Stylish-Shoes-for-Every-Step/assets/112388713/943b70bc-e5a4-4086-b2f5-43c704c504ac)
+
+
 ## Table of Contents
 - [Hero Section](#hero-section)
 - [Navigation](#navigation)
